@@ -1,0 +1,23 @@
+name: GitHub Actions Demo
+
+
+on:
+  push:
+
+
+jobs:
+  demo:
+    runs-on: ubuntu-latest
+
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+
+      - name: Show message
+        run: echo "GitHub Actions berhasil dijalankan"
+
+
+      - name: Show repository files
+        run: ls -la
