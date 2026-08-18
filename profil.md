@@ -3,6 +3,9 @@
 
 Nama: Iltizam Muhammad Hasan
 NIM: 187241074
+Program Studi: Sistem Informasi
+Universitas: Universitas Airlangga
 
 
-Eksperimen ini dilakukan untuk memahami penggunaan Git dan GitHub.
+## Tujuan Eksperimen
+Memahami konsep version control, branch, commit, push, dan Pull Request menggunakan GitHub.
